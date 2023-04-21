@@ -1,3 +1,4 @@
+app = "bnn"
 [mounts]
 source="data"
 destination="/data"
