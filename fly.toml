@@ -1,4 +1,4 @@
-app = "bnn"
+app = "ffl"
 [mounts]
 source="data"
 destination="/data"
